@@ -1,7 +1,7 @@
 import OSPRNG.TriangularRNG;
 import OSPRNG.UniformContinuousRNG;
 
-public class Kolporter {
+public class Zad1Kolporter {
     public static void main(String[] args) {
         int pocetReplikacii = 100000;
         double nakupnaCena = 0.15;
