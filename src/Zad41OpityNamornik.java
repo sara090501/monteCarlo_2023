@@ -1,6 +1,6 @@
 import OSPRNG.UniformContinuousRNG;
 
-public class Zad4AOpityNamornik {
+public class Zad41OpityNamornik {
     public static void main(String[] args) {
         UniformContinuousRNG smerGen = new UniformContinuousRNG(0.0, 1.0);
         int pocetOpakovani = 100000;
